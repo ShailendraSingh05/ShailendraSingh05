@@ -13,15 +13,10 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Machine learning projects.**
 
-- 👨‍💻 All of my projects are available at [123@abc.com](123@abc.com)
-
-
-
 - 💬 Ask me about **Artificial Intelligence, Statistics, Machine Learning, Data Science and Cricket.**
 
 - 📫 How to reach me **shailendra.singhreal@gmail.com**
 
-- 📄 Know about my experiences [www.ddd.com](www.ddd.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
